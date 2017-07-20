@@ -18,3 +18,8 @@ Amazing Libraries of different technologis
 
  - [Awesome-Ionic](https://github.com/Alexintosh/Awesome-Ionic)
     * ``` A curated list of awesome Ionic libraries, resources and solutions.  ```
+    
+    
+# Animation
+
+  - [lottie](https://www.lottiefiles.com/)
