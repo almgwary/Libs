@@ -18,6 +18,8 @@ Amazing Libraries of different technologis
 
  - [Awesome-Ionic](https://github.com/Alexintosh/Awesome-Ionic)
     * ``` A curated list of awesome Ionic libraries, resources and solutions.  ```
+- [Map geofence](https://ionic2-geofence.surge.sh/)
+   * ``` Ionic2 Geofencing Sample Project  ```
     
     
 # Animation
