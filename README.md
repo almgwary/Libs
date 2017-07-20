@@ -12,3 +12,9 @@ Amazing Libraries of different technologis
 
   - [ leafletjs ](http://leafletjs.com/)
     * ``` leading open-source JavaScript library for mobile-friendly interactive maps. ```
+
+
+# Ionic
+
+ - [Awesome-Ionic](https://github.com/Alexintosh/Awesome-Ionic)
+    * ``` A curated list of awesome Ionic libraries, resources and solutions.  ```
