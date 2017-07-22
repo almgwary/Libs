@@ -25,3 +25,7 @@ Amazing Libraries of different technologis
 # Animation
 
   - [lottie](https://www.lottiefiles.com/)
+
+# Distributed and Servers
+
+  - [rabbitmq](https://www.rabbitmq.com/#features)
