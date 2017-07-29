@@ -13,6 +13,9 @@ Amazing Libraries of different technologis
   - [ leafletjs ](http://leafletjs.com/)
     * ``` leading open-source JavaScript library for mobile-friendly interactive maps. ```
 
+  - [draggabilly ](https://draggabilly.desandro.com/)
+    *``` Make that shiz draggable ```
+
 
 # Ionic
 
