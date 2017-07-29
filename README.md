@@ -15,6 +15,9 @@ Amazing Libraries of different technologis
 
   - [draggabilly ](https://draggabilly.desandro.com/)
     *``` Make that shiz draggable ```
+    
+  - [tether ](http://tether.io)
+    *``` A client-side library to make absolutely positioned elements attach to elements in the page efficiently. ```
 
 
 # Ionic
