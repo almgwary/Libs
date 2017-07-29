@@ -18,6 +18,11 @@ Amazing Libraries of different technologis
     
   - [tether ](http://tether.io)
     *``` A client-side library to make absolutely positioned elements attach to elements in the page efficiently. ```
+    
+  - [ng2-img-map ](https://github.com/jasonroyle/ng2-img-map)
+     *``` Responsive image mapping interface for Angular 2. ```
+    
+    
 
 
 # Ionic
