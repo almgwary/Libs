@@ -21,6 +21,16 @@ Amazing Libraries of different technologis
     
   - [ng2-img-map ](https://github.com/jasonroyle/ng2-img-map)
      *``` Responsive image mapping interface for Angular 2. ```
+     
+         
+  - [angular-xeditable ](https://vitalets.github.io/angular-xeditable/)
+     *``` Angular-xeditable is a bundle of AngularJS directives that allows you to create editable elements.
+Such technique is also known as click-to-edit or edit-in-place. ```
+     
+     
+         
+  - [greensock ](https://greensock.com/)
+     *``` Ultra high-performance, professional-grade HTML5 animation for the modern web```
     
     
 
