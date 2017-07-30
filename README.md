@@ -32,6 +32,10 @@ Such technique is also known as click-to-edit or edit-in-place. ```
   - [greensock ](https://greensock.com/)
      *``` Ultra high-performance, professional-grade HTML5 animation for the modern web```
     
+  
+  - [ng-flow](http://flowjs.github.io/ng-flow/)
+     *``` Flow.js is a JavaScript library providing multiple simultaneous, stable and resumable uploads via the HTML5 File API. Library does not require third party dependencies.```
+    
     
 
 
