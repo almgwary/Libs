@@ -36,7 +36,11 @@ Such technique is also known as click-to-edit or edit-in-place. ```
   - [ng-flow](http://flowjs.github.io/ng-flow/)
      *``` Flow.js is a JavaScript library providing multiple simultaneous, stable and resumable uploads via the HTML5 File API. Library does not require third party dependencies.```
     
-    
+       
+ - [icomoon.io](  https://stackoverflow.com/a/40959150/6786941/)
+   * ```Its a web based way to make your own icon packs. Its pretty good and they will generate the css and font files for you. Its not a grunt process but it can provide a good way to create your own icon pack and keep them separate from the default set  ```
+   
+ 
 
 
 # Ionic
@@ -45,6 +49,12 @@ Such technique is also known as click-to-edit or edit-in-place. ```
     * ``` A curated list of awesome Ionic libraries, resources and solutions.  ```
 - [Map geofence](https://ionic2-geofence.surge.sh/)
    * ``` Ionic2 Geofencing Sample Project  ```
+   
+   
+ - [icomoon.io](  https://stackoverflow.com/a/40959150/6786941/)
+   * ```Its a web based way to make your own icon packs. Its pretty good and they will generate the css and font files for you. Its not a grunt process but it can provide a good way to create your own icon pack and keep them separate from the default set  ```
+   
+ 
     
     
 # Animation
