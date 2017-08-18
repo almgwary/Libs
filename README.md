@@ -41,6 +41,11 @@ Such technique is also known as click-to-edit or edit-in-place. ```
    * ```Its a web based way to make your own icon packs. Its pretty good and they will generate the css and font files for you. Its not a grunt process but it can provide a good way to create your own icon pack and keep them separate from the default set  ```
    
  
+ 
+  - [holderjs.com]( http://holderjs.com/ )
+      * ```Holder renders image placeholders on the client side using SVG. ```
+   
+ 
 
 
 # Ionic
