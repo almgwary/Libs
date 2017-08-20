@@ -45,7 +45,7 @@ Such technique is also known as click-to-edit or edit-in-place. ```
   - [holderjs.com]( http://holderjs.com/ )
       * ```Holder renders image placeholders on the client side using SVG. ```
    
- 
+ - [Uber](https://uber.github.io/)
 
 
 # Ionic
