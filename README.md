@@ -46,6 +46,11 @@ Such technique is also known as click-to-edit or edit-in-place. ```
       * ```Holder renders image placeholders on the client side using SVG. ```
    
  - [Uber](https://uber.github.io/)
+ 
+ 
+ 
+ - [pixijs](http://www.pixijs.com/gallery)
+     * ``` The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.```
 
 
 # Ionic
