@@ -10,8 +10,11 @@ Amazing Libraries of different technologis
 
 # javascript 
 
-  - [ leafletjs ](http://leafletjs.com/)
+  - [ map leafletjs ](http://leafletjs.com/)
     * ``` leading open-source JavaScript library for mobile-friendly interactive maps. ```
+    
+  - [ map Leaflet.MovingMarker](https://github.com/ewoken/Leaflet.MovingMarker)
+     * ``` A Leaflet plug-in to create moving marker. Very useful to represent transportations or other movable things ! ```
 
   - [draggabilly ](https://draggabilly.desandro.com/)
     *``` Make that shiz draggable ```
