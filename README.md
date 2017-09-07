@@ -55,7 +55,7 @@ Such technique is also known as click-to-edit or edit-in-place. ```
  - [pixijs](http://www.pixijs.com/gallery)
      * ``` The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.```
 
-
+ - [idangero mobile slider](http://idangero.us/swiper/demos/)
 # Ionic
 
  - [Awesome-Ionic](https://github.com/Alexintosh/Awesome-Ionic)
