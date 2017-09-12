@@ -62,7 +62,7 @@ Such technique is also known as click-to-edit or edit-in-place. ```
    - [idangero mobile slider](http://idangero.us/swiper/demos/)
 
   - [jQuery.mmenu - App look-alike menus with sliding submenus](http://mmenu.frebsite.nl/examples.html)
-  - [A platform detection library.](https://github.com/bestiejs/platform.js/)
+  - [platform.js A platform detection library.](https://github.com/bestiejs/platform.js/)
 
 # Ionic
 
