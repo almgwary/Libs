@@ -57,6 +57,19 @@ Such technique is also known as click-to-edit or edit-in-place. ```
 
   - [jQuery.mmenu - App look-alike menus with sliding submenus](http://mmenu.frebsite.nl/examples.html)
   - [platform.js A platform detection library.](https://github.com/bestiejs/platform.js/)
+  - [Runman - Angular Game ](https://github.com/MurhafSousli/runman/)
+
+# Angular
+
+ - [ fan-menu](https://github.com/DanielYKPan/ng2-fan-menu)
+ 
+ - [ snotify Angular 2 Notification Center](https://artemsky.github.io/ng-snotify/)
+ 
+ - [ Snake arcade game implemented in Angular 2.](https://github.com/SamirHodzic/ngx-snake)
+ 
+ - [ apollodata Use GraphQL with Angular ](http://dev.apollodata.com/angular2/)
+ 
+ - [DevExtreme Angular UI and visualization components ](https://js.devexpress.com/Demos/)
 
 # Ionic
 
