@@ -4,6 +4,8 @@ Amazing Libraries of different technologis
 
 # javascript 
 
+  - [ libs ](https://devarchy.com/angular)
+
   - [ map leafletjs ](http://leafletjs.com/)
     * ``` leading open-source JavaScript library for mobile-friendly interactive maps. ```
     
