@@ -72,6 +72,8 @@ Such technique is also known as click-to-edit or edit-in-place. ```
  - [ apollodata Use GraphQL with Angular ](http://dev.apollodata.com/angular2/)
  
  - [DevExtreme Angular UI and visualization components ](https://js.devexpress.com/Demos/)
+ 
+ - [ awesome-angular-components ](https://github.com/brillout/awesome-angular-components)
 
 # Ionic
 
