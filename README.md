@@ -74,6 +74,8 @@ Such technique is also known as click-to-edit or edit-in-place. ```
  - [DevExtreme Angular UI and visualization components ](https://js.devexpress.com/Demos/)
  
  - [ awesome-angular-components ](https://github.com/brillout/awesome-angular-components)
+ 
+ - [ amazing gallary ](http://oidamo.de/angular2-image-gallery/)
 
 # Ionic
 
