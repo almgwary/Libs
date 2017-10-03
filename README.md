@@ -5,6 +5,7 @@ Amazing Libraries of different technologis
 # javascript 
 
   - [introjs Step-by-step guide and feature introduction](https://github.com/usablica/intro.js)
+  - [ typed js](https://github.com/mattboldt/typed.js/)
   - [ libs ](https://devarchy.com/angular)
 
   - [ map leafletjs ](http://leafletjs.com/)
