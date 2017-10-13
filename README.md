@@ -9,6 +9,8 @@ Amazing Libraries of different technologis
   - [ 3d flip book ](http://3dflipbook.net)
   
   - [ libs ](https://devarchy.com/angular)
+  
+  - [ sticky-sideba ](https://abouolia.github.io/sticky-sidebar/)
 
   - [ map leafletjs ](http://leafletjs.com/)
     * ``` leading open-source JavaScript library for mobile-friendly interactive maps. ```
